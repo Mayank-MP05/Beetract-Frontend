@@ -1,0 +1,4 @@
+#node modules Folder ignored 
+/node_modules
+
+/build
